@@ -5,9 +5,9 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
 ## Exam
 
 * General information and instructions:    
-  - [Common instructions for all exams (will be reported and adapted to each single exam)](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_common_instructions_v2.pdf)
+  - [Common instructions for all exams (will be reported and adapted to each single exam)](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_common_instructions_v3.pdf)
   - GitHub Classroom instructions will be published some time before the first exam.
-  - [Most frequent errors and how to avoid them (version 1.0)](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_Most_Frequent_Errors_v1.0.pdf)
+  - [Most frequent errors and how to avoid them (version 1.0)](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_Most_Frequent_Errors_v2.0.pdf)
     
 ## Exam rules
 
