@@ -1,4 +1,4 @@
-# Web Applications (2024/2025)
+![image](https://github.com/user-attachments/assets/ad4f8ff0-3dfc-47c7-bed4-5ed822b4239b)# Web Applications (2024/2025)
 
 Material for the course of _Web Applications_ (in English) for the [Master Degree in Cybersecurity](https://www.polito.it/en/education/master-s-degree-programmes/cybersecurity) at Politecnico di Torino, Italy.  
 Teachers: E. Masala, A. Servetti
@@ -11,7 +11,7 @@ Teachers: E. Masala, A. Servetti
 
 :house: Home: [github.com/polito-WA-2025](https://github.com/polito-WA-2025)
 
-:arrow_forward: [Lecture recordings (YouTube)]()
+:arrow_forward: [Lecture recordings (YouTube)](https://www.youtube.com/playlist?list=PLuZyhAOPm9pNtxSPd9qRvwBEYoDXjqeYQ)
 
 :blue_book: [Course materials](https://github.com/polito-WA-2025/materials)
 
