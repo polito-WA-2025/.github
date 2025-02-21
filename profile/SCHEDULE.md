@@ -13,4 +13,11 @@ Check regularly for potential changes.
 | Thu 27 Feb 2025 | 14:30  | Lecture | 1P    | EM      | [JS Objects and Functions](https://github.com/polito-WA-2025/materials/blob/main/slides/1-02-javascript-objects-functions.pdf) | |
 | Fri 28 Feb 2025 | 16:00  | - | - | - | *no activity* |  |
 | Fri 28 Feb 2025 | 17:30  | - | - | - | *no activity* |  |
+| Mon  3 Mar 2025 | 13:00  | Lecture | 29B   | AS      | Callbacks, functional programming. Dates |
+| Mon  3 Mar 2025 | 14:30  | Lecture | 29B   | AS      | Examples using functional programming |
+| Tue  4 Mar 2025 | 16:00  | Lab | 10i | AS | Lab#1 group1: Getting started with node.js | - |
+| Thu  6 Mar 2025 | 13:00  | Lecture | 1P    | EM      | Closures, constructor functions. This keyword. JS libraries |
+| Thu  6 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Dependencies and security. Examples |
+| Fri  7 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#1 group2: Getting started with node.js | - |
+| Fri  7 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#1 group3: Getting started with node.js | - |
 
