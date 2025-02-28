@@ -9,15 +9,15 @@ Check regularly for potential changes.
 | Mon 24 Feb 2025 | 13:00  | Lecture | 29B   | EM      | [Introduction to the course](https://github.com/polito-WA-2025/materials/blob/master/slides/0-00-intro-2025-WA.pdf) [SW installation instructions](https://github.com/polito-WA-2025/materials/blob/main/slides/0-01-installation-instructions-2025-WA.pdf)  | Video [:arrow_forward:](https://youtu.be/uvhPdIyj9H8) |
 | Mon 24 Feb 2025 | 14:30  | Lecture | 29B   | EM      | [Intro to Javascript, Array and Strings](https://github.com/polito-WA-2025/materials/blob/main/slides/1-01-javascript-basics.pdf) | Video [:arrow_forward:](https://youtu.be/fR6HEtNVE8A) |
 | Tue 25 Feb 2025 | 16:00  | - | - | - | *no activity* |  |
-| Thu 27 Feb 2025 | 13:00  | Lecture | 1P    | EM      | [JS Exercises on Array and Strings](https://github.com/polito-WA-2025/wa-weeks/blob/main/week01/EXERCISES.md) |  |
-| Thu 27 Feb 2025 | 14:30  | Lecture | 1P    | EM      | [JS Objects and Functions](https://github.com/polito-WA-2025/materials/blob/main/slides/1-02-javascript-objects-functions.pdf) | |
+| Thu 27 Feb 2025 | 13:00  | Lecture | 1P    | EM      | [JS Exercises on Array and Strings](https://github.com/polito-WA-2025/wa-weeks/blob/main/week01/EXERCISES.md) | Video [:arrow_forward:](https://youtu.be/ruJkSGHPLdk) |
+| Thu 27 Feb 2025 | 14:30  | Lecture | 1P    | EM      | [JS Objects and Functions](https://github.com/polito-WA-2025/materials/blob/main/slides/1-02-javascript-objects-functions.pdf) | Video [:arrow_forward:](https://youtu.be/TWGQ4IFHTzs) |
 | Fri 28 Feb 2025 | 16:00  | - | - | - | *no activity* |  |
 | Fri 28 Feb 2025 | 17:30  | - | - | - | *no activity* |  |
-| Mon  3 Mar 2025 | 13:00  | Lecture | 29B   | AS      | Callbacks, functional programming. Dates |
-| Mon  3 Mar 2025 | 14:30  | Lecture | 29B   | AS      | Examples using functional programming |
-| Tue  4 Mar 2025 | 16:00  | Lab | 10i | AS | Lab#1 group1: Getting started with node.js | - |
-| Thu  6 Mar 2025 | 13:00  | Lecture | 1P    | EM      | Closures, constructor functions. This keyword. JS libraries |
-| Thu  6 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Dependencies and security. Examples |
-| Fri  7 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#1 group2: Getting started with node.js | - |
-| Fri  7 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#1 group3: Getting started with node.js | - |
+| Mon  3 Mar 2025 | 13:00  | Lecture | 29B   | AS      | [Callbacks, functional programming](https://github.com/polito-WA-2025/materials/blob/main/slides/1-03-javascript-callbacks-functional-programming.pdf). [Dates](https://github.com/polito-WA-2025/materials/blob/main/slides/1-04-javascript-package-date.pdf) |
+| Mon  3 Mar 2025 | 14:30  | Lecture | 29B   | AS      | [Examples using functional programming](https://github.com/polito-WA-2025/wa-weeks/blob/main/week02/) |
+| Tue  4 Mar 2025 | 16:00  | Lab | 10i | AS | Lab#1 group1: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
+| Thu  6 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [This keyword](https://github.com/polito-WA-2025/materials/blob/main/slides/1-05-javascript-this.pdf). [JS libraries and packages, dependencies and security](https://github.com/polito-WA-2025/materials/blob/main/slides/1-06-javascript-libraries-packages.pdf) |
+| Thu  6 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Examples. [Intro to JS asynchronous programming](https://github.com/polito-WA-2025/materials/blob/main/slides/1-07-javascript-async-programming.pdf) |
+| Fri  7 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#1 group2: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
+| Fri  7 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#1 group3: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
 
