@@ -19,6 +19,12 @@ Teachers: E. Masala, A. Servetti
 
 :eyes: [Lab code and solutions](https://github.com/polito-WA-2025/labs-code)
 
+## Lab groups
+Initially, lab groups are as follows:
+- Tuesday 4pm for group#1: last names from AA to FE
+- Friday 4pm for group#2: last names from FF to MZ
+- Friday 5:30pm for group#3: last names from NA to ZZ
+
 ## Class hours
 
 **NB: Lab rooms do NOT have computers installed. To participate it is necessary to use YOUR OWN LAPTOP. It can be connected to the numerous electric plugs and to the WiFi network.**
