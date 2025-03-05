@@ -20,4 +20,11 @@ Check regularly for potential changes.
 | Thu  6 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Examples. [Intro to JS asynchronous programming](https://github.com/polito-WA-2025/materials/blob/main/slides/1-07-javascript-async-programming.pdf) |
 | Fri  7 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#1 group2: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
 | Fri  7 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#1 group3: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
+| Mon  10 Mar 2025 | 13:00  | Lecture | 29B   | EM      | JS async programming. Interfacing with SQLite. |
+| Mon  10 Mar 2025 | 14:30  | Lecture | 29B   | EM      | Promises. async and await. |
+| Tue  11 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#2 group1: Node.js with database | - |
+| Thu  13 Mar 2025 | 13:00  | Lecture | 1P    | EM      | Introduction to web applications, HTTP server, express.js |
+| Thu  13 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Building an HTTP API server. Examples. |
+| Fri  14 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#2 group2: Node.js with database | - |
+| Fri  14 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#2 group3: Node.js with database | - |
 
