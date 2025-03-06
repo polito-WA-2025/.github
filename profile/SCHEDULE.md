@@ -16,12 +16,12 @@ Check regularly for potential changes.
 | Mon  3 Mar 2025 | 13:00  | Lecture | 29B   | AS      | [Examples using functional programming](https://github.com/polito-WA-2025/wa-weeks/blob/main/week02/) | Video [:arrow_forward:](https://youtu.be/NbK7QtVc7wk) |
 | Mon  3 Mar 2025 | 14:30  | Lecture | 29B   | AS      |  [Callbacks, functional programming](https://github.com/polito-WA-2025/materials/blob/main/slides/1-03-javascript-callbacks-functional-programming.pdf). [Dates](https://github.com/polito-WA-2025/materials/blob/main/slides/1-04-javascript-package-date.pdf) | Video [:arrow_forward:](https://youtu.be/IBzwY6fsz4I) |
 | Tue  4 Mar 2025 | 16:00  | Lab | 10i | AS | Lab#1 group1: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
-| Thu  6 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [This keyword](https://github.com/polito-WA-2025/materials/blob/main/slides/1-05-javascript-this.pdf). [JS libraries and packages, dependencies and security](https://github.com/polito-WA-2025/materials/blob/main/slides/1-06-javascript-libraries-packages.pdf) |
-| Thu  6 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Examples. [Intro to JS asynchronous programming](https://github.com/polito-WA-2025/materials/blob/main/slides/1-07-javascript-async-programming.pdf) |
+| Thu  6 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [This keyword](https://github.com/polito-WA-2025/materials/blob/main/slides/1-05-javascript-this.pdf). [JS libraries and packages, dependencies and security](https://github.com/polito-WA-2025/materials/blob/main/slides/1-06-javascript-libraries-packages.pdf) | Video [:arrow_forward:](https://youtu.be/rCp3N17Iols) |
+| Thu  6 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [Intro to JS asynchronous programming, interfacing with SQLite](https://github.com/polito-WA-2025/materials/blob/main/slides/1-07-javascript-async-programming.pdf) | Video [:arrow_forward:](https://youtu.be/HLKS5OAADfI) |
 | Fri  7 Mar 2025 | 16:00  | Lab |  9i | AS | Lab#1 group2: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
 | Fri  7 Mar 2025 | 17:30  | Lab |  9i | AS | Lab#1 group3: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
-| Mon  10 Mar 2025 | 13:00  | Lecture | 29B   | EM      | JS async programming. Interfacing with SQLite. |
-| Mon  10 Mar 2025 | 14:30  | Lecture | 29B   | EM      | Promises. async and await. |
+| Mon  10 Mar 2025 | 13:00  | Lecture | 29B   | EM      | JS async programming: Promises |  |
+| Mon  10 Mar 2025 | 14:30  | Lecture | 29B   | EM      | async and await. |  |
 | Tue  11 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#2 group1: Node.js with database | - |
 | Thu  13 Mar 2025 | 13:00  | Lecture | 1P    | EM      | Introduction to web applications, HTTP server, express.js |
 | Thu  13 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Building an HTTP API server. Examples. |
