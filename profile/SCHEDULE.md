@@ -22,11 +22,11 @@ Check regularly for potential changes.
 | Fri  7 Mar 2025 | 17:30  | Lab |  9i | AS | Lab#1 group3: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
 | Mon  10 Mar 2025 | 13:00  | Lecture | 29B   | EM      | [JS async programming: Promises](https://github.com/polito-WA-2025/materials/blob/main/slides/1-07-javascript-async-programming.pdf) |  |
 | Mon  10 Mar 2025 | 14:30  | Lecture | 29B   | EM      | [async and await.](https://github.com/polito-WA-2025/materials/blob/main/slides/1-07-javascript-async-programming.pdf) |  |
-| Tue  11 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#2 group1: Node.js with database | - |
+| Tue  11 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#2 group1: [Node.js with database](https://github.com/polito-WA-2025/materials/blob/main/labs/lab02-node-database.pdf) | - |
 | Thu  13 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [Introduction to web applications.](https://github.com/polito-WA-2025/materials/blob/main/slides/4-01-web-architecture.pdf) [HTTP server, express.js](https://github.com/polito-WA-2025/materials/blob/main/slides/4-02-Express.pdf) |
 | Thu  13 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [Building an HTTP API server.](https://github.com/polito-WA-2025/materials/blob/main/slides/4-03-API.pdf) [Examples.](https://github.com/polito-WA-2025/wa-weeks/blob/main/week03/) |
-| Fri  14 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#2 group2: Node.js with database | - |
-| Fri  14 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#2 group3: Node.js with database | - |
+| Fri  14 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#2 group2: [Node.js with database](https://github.com/polito-WA-2025/materials/blob/main/labs/lab02-node-database.pdf) | - |
+| Fri  14 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#2 group3: [Node.js with database](https://github.com/polito-WA-2025/materials/blob/main/labs/lab02-node-database.pdf) | - |
 | Mon  17 Mar 2025 | 13:00  |  - | - | - | *no activity* |  |
 | Mon  17 Mar 2025 | 14:30  |  - | - | - | *no activity* |  |
 | Tue  18 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#3 group1: Set-up of an API server with express | - |
