@@ -20,11 +20,11 @@ Check regularly for potential changes.
 | Thu  6 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [Intro to JS asynchronous programming, interfacing with SQLite](https://github.com/polito-WA-2025/materials/blob/main/slides/1-07-javascript-async-programming.pdf) | Video [:arrow_forward:](https://youtu.be/HLKS5OAADfI) |
 | Fri  7 Mar 2025 | 16:00  | Lab |  9i | AS | Lab#1 group2: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
 | Fri  7 Mar 2025 | 17:30  | Lab |  9i | AS | Lab#1 group3: [Getting started with node.js](https://github.com/polito-WA-2025/materials/blob/main/labs/lab01-getting-started-node.pdf) | - |
-| Mon  10 Mar 2025 | 13:00  | Lecture | 29B   | EM      | JS async programming: Promises |  |
-| Mon  10 Mar 2025 | 14:30  | Lecture | 29B   | EM      | async and await. |  |
+| Mon  10 Mar 2025 | 13:00  | Lecture | 29B   | EM      | [JS async programming: Promises](https://github.com/polito-WA-2025/materials/blob/main/slides/1-07-javascript-async-programming.pdf) |  |
+| Mon  10 Mar 2025 | 14:30  | Lecture | 29B   | EM      | [async and await.](https://github.com/polito-WA-2025/materials/blob/main/slides/1-07-javascript-async-programming.pdf) |  |
 | Tue  11 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#2 group1: Node.js with database | - |
-| Thu  13 Mar 2025 | 13:00  | Lecture | 1P    | EM      | Introduction to web applications, HTTP server, express.js |
-| Thu  13 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Building an HTTP API server. Examples. |
+| Thu  13 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [Introduction to web applications.](https://github.com/polito-WA-2025/materials/blob/main/slides/4-01-web-architecture.pdf) [HTTP server, express.js](https://github.com/polito-WA-2025/materials/blob/main/slides/4-02-Express.pdf) |
+| Thu  13 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [Building an HTTP API server.](https://github.com/polito-WA-2025/materials/blob/main/slides/4-03-API.pdf) [Examples.](https://github.com/polito-WA-2025/wa-weeks/blob/main/week03/) |
 | Fri  14 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#2 group2: Node.js with database | - |
 | Fri  14 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#2 group3: Node.js with database | - |
 
