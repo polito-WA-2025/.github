@@ -27,4 +27,10 @@ Check regularly for potential changes.
 | Thu  13 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [Building an HTTP API server.](https://github.com/polito-WA-2025/materials/blob/main/slides/4-03-API.pdf) [Examples.](https://github.com/polito-WA-2025/wa-weeks/blob/main/week03/) |
 | Fri  14 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#2 group2: Node.js with database | - |
 | Fri  14 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#2 group3: Node.js with database | - |
-
+| Mon  17 Mar 2025 | 13:00  |  - | - | - | *no activity* |  |
+| Mon  17 Mar 2025 | 14:30  |  - | - | - | *no activity* |  |
+| Tue  18 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#3 group1: Set-up of an API server with express | - |
+| Thu  20 Mar 2025 | 13:00  | Lecture | 1P    | EM      | API security. |
+| Thu  20 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Exercise on API security. |
+| Fri  21 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#3 group2: Set-up of an API server with express | - |
+| Fri  21 Mar 2025 | 17:30  | Lab |  9i | EM | Lab#3 group3: Set-up of an API server with express | - |
