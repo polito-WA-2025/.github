@@ -20,10 +20,8 @@ Teachers: E. Masala, A. Servetti
 :eyes: [Lab code and solutions](https://github.com/polito-WA-2025/labs-code)
 
 ## Lab groups
-Initially, lab groups are as follows:
-- Tuesday 4pm for group#1: last names from AA to FE
-- Friday 4pm for group#2: last names from FF to MZ
-- Friday 5:30pm for group#3: last names from NA to ZZ
+- Tuesday 4pm for (new) group#1: last names from A to J
+- Friday 4pm for (new) group#2: last names from K to Z
 
 ## Class hours
 
@@ -34,7 +32,7 @@ See the [Detailed Schedule](/profile/SCHEDULE.md) for each day topics and variat
 | Day      | Hour        | Location | Type          | Note                                                                 |
 |----------|-------------|----------|---------------|----------------------------------------------------------------------|
 | Monday   | 13:00-16:00 | Room 29B | Lecture       | Not always lecture, check [detailed schedule](/profile/SCHEDULE.md)  |
-| Tuesday  | 16:00-17:30 | Room 10i | Lab - Group 1 | lab starts on March 4, 2025                                          |
+| Tuesday  | 16:00-17:30 | Room 10i | Lab - (new) Group#1 | lab starts on March 4, 2025                                          |
 | Thursday | 13:00-16:00 | Room 1P  | Lecture       | Not always lecture, check [detailed schedule](/profile/SCHEDULE.md)  |
-| Friday   | 16:00-17:30 | Room 9i  | Lab - Group 2 | lab starts on March 7, 7025                                          |
-| Friday   | 17:30-19:00 | Room 9i  | Lab - Group 3 | lab starts on March 7, 7025                                          |
+| Friday   | 16:00-17:30 | Room 9i  | Lab - (new) Group#2 | lab starts on March 7, 7025                                          |
+| Friday   | 17:30-19:00 | Room 9i  | ---           | NOT USED ANYMORE                                                     |
