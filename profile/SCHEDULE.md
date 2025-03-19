@@ -32,5 +32,11 @@ Check regularly for potential changes.
 | Tue  18 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#3 new group1: [Set-up of an API server with express](https://github.com/polito-WA-2025/materials/blob/main/labs/lab03-express.pdf) | - |
 | Thu  20 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [API security.](https://github.com/polito-WA-2025/materials/blob/main/slides/4-04-API-security.pdf) |
 | Thu  20 Mar 2025 | 14:30  | Lecture | 1P    | EM      | Exercise on API security. |
-| Fri  21 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#3 new group2: [Set-up of an API server with express](https://github.com/polito-WA-2025/materials/blob/main/labs/lab03-express.pdf) | - |
+| Fri  21 Mar 2025 | 16:00  | Lab |  9i | AS | Lab#3 new group2: [Set-up of an API server with express](https://github.com/polito-WA-2025/materials/blob/main/labs/lab03-express.pdf) | - |
 | Fri  21 Mar 2025 | 17:30  | - | - | - | *no activity* |  |
+| Mon  24 Mar 2025 | 13:00  |  Lecture | 29B | EM | Introduction to modern browsers, HTML, CSS. |
+| Mon  24 Mar 2025 | 14:30  |  Lecture | 29B | EM | Modern CSS, Flex, Bootstrap. |
+| Tue  25 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#4 new group1: API security | - |
+| Thu  27 Mar 2025 | 13:00  | Lecture | 1P    | EM      | JS in the browser: DOM. |
+| Thu  27 Mar 2025 | 14:30  | Lecture | 1P    | EM      | JS in the browser: forms, events. Example |
+| Fri  28 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#4 new group2: API security | - |
