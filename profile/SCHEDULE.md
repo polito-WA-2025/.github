@@ -36,7 +36,7 @@ Check regularly for potential changes.
 | Fri  21 Mar 2025 | 17:30  | - | - | - | *no activity* |  |
 | Mon  24 Mar 2025 | 13:00  |  Lecture | 29B | EM | [Validation in API (example)](https://github.com/polito-WA-2025/wa-weeks/tree/main/week04). Introduction to modern browsers, HTML, CSS. |
 | Mon  24 Mar 2025 | 14:30  |  Lecture | 29B | EM | Modern CSS, Flex, Bootstrap. |
-| Tue  25 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#4 new group1: API security | - |
+| Tue  25 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#4 new group1: [API security](https://github.com/polito-WA-2025/materials/blob/main/labs/lab04-API-server.pdf) | - |
 | Thu  27 Mar 2025 | 13:00  | Lecture | 1P    | EM      | JS in the browser: DOM. |
 | Thu  27 Mar 2025 | 14:30  | Lecture | 1P    | EM      | JS in the browser: forms, events. Example |
-| Fri  28 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#4 new group2: API security | - |
+| Fri  28 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#4 new group2: [API security](https://github.com/polito-WA-2025/materials/blob/main/labs/lab04-API-server.pdf) | - |
