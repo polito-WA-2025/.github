@@ -30,8 +30,8 @@ Check regularly for potential changes.
 | Mon  17 Mar 2025 | 13:00  |  - | - | - | *no activity* |  |
 | Mon  17 Mar 2025 | 14:30  |  - | - | - | *no activity* |  |
 | Tue  18 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#3 new group1: [Set-up of an API server with express](https://github.com/polito-WA-2025/materials/blob/main/labs/lab03-express.pdf) | - |
-| Thu  20 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [API security.](https://github.com/polito-WA-2025/materials/blob/main/slides/4-04-API-security.pdf) |
-| Thu  20 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [Exercise on API security.](https://github.com/polito-WA-2025/wa-weeks/tree/main/week04) |
+| Thu  20 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [Exercise on API security.](https://github.com/polito-WA-2025/wa-weeks/tree/main/week04) | Video [:arrow_forward:](https://youtu.be/pFK5bBts5ro)
+| Thu  20 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [API security.](https://github.com/polito-WA-2025/materials/blob/main/slides/4-04-API-security.pdf) | Video [:arrow_forward:](https://youtu.be/KllLMAYuq34)
 | Fri  21 Mar 2025 | 16:00  | Lab |  9i | AS | Lab#3 new group2: [Set-up of an API server with express](https://github.com/polito-WA-2025/materials/blob/main/labs/lab03-express.pdf) | - |
 | Fri  21 Mar 2025 | 17:30  | - | - | - | *no activity* |  |
 | Mon  24 Mar 2025 | 13:00  |  Lecture | 29B | EM | Introduction to modern browsers, HTML, CSS. |
