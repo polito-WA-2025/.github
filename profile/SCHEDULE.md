@@ -40,8 +40,8 @@ Check regularly for potential changes.
 | Thu  27 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [JS in the browser: DOM](https://github.com/polito-WA-2025/materials/blob/main/slides/2-04-JS-browser.pdf). |
 | Thu  27 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [JS in the browser: forms, events](https://github.com/polito-WA-2025/materials/blob/main/slides/2-04-JS-browser.pdf). [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week05) |
 | Fri  28 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#4 new group2: [API security](https://github.com/polito-WA-2025/materials/blob/main/labs/lab04-API-server.pdf) | - |
-| Mon  31 Mar 2025 | 13:00  |  Lab | 29B | EM | Lab#5 new group1: HTML and CSS |
-| Mon  31 Mar 2025 | 14:30  |  Lab | 29B | EM | Lab#5 new group2: HTML and CSS |
+| Mon  31 Mar 2025 | 13:00  |  Lab | 29B | EM | Lab#5 new group1: HTML and CSS | - |
+| Mon  31 Mar 2025 | 14:30  |  Lab | 29B | EM | Lab#5 new group2: HTML and CSS | - |
 | Tue   1 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#6 new group1: JS in the browser | - |
 | Thu   3 Apr 2025 | 13:00  | Lecture | 1P    | EM      |  Cross-site scripting (XSS). Fetch API. |
 | Thu   3 Apr 2025 | 14:30  | Lecture | 1P    | EM      |  JS Modules. Example. |
