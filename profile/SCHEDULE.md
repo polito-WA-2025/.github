@@ -34,9 +34,9 @@ Check regularly for potential changes.
 | Thu  20 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [API security.](https://github.com/polito-WA-2025/materials/blob/main/slides/4-04-API-security.pdf) | Video [:arrow_forward:](https://youtu.be/KllLMAYuq34)
 | Fri  21 Mar 2025 | 16:00  | Lab |  9i | AS | Lab#3 new group2: [Set-up of an API server with express](https://github.com/polito-WA-2025/materials/blob/main/labs/lab03-express.pdf) | - |
 | Fri  21 Mar 2025 | 17:30  | - | - | - | *no activity* |  |
-| Mon  24 Mar 2025 | 13:00  |  Lecture | 29B | EM | [Validation in API (example)](https://github.com/polito-WA-2025/wa-weeks/tree/main/week04). Introduction to modern browsers, HTML, CSS. |
-| Mon  24 Mar 2025 | 14:30  |  Lecture | 29B | EM | Modern CSS, Flex, Bootstrap. |
+| Mon  24 Mar 2025 | 13:00  |  Lecture | 29B | EM | [Validation in API (example)](https://github.com/polito-WA-2025/wa-weeks/tree/main/week04). [Introduction to modern browsers](https://github.com/polito-WA-2025/materials/blob/main/slides/2-01-browser-intro.pdf), [HTML](https://github.com/polito-WA-2025/materials/blob/main/slides/2-02-html.pdf). |
+| Mon  24 Mar 2025 | 14:30  |  Lecture | 29B | EM | [Modern CSS, Flex, Bootstrap](https://github.com/polito-WA-2025/materials/blob/main/slides/2-03-css.pdf). |
 | Tue  25 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#4 new group1: [API security](https://github.com/polito-WA-2025/materials/blob/main/labs/lab04-API-server.pdf) | - |
-| Thu  27 Mar 2025 | 13:00  | Lecture | 1P    | EM      | JS in the browser: DOM. |
-| Thu  27 Mar 2025 | 14:30  | Lecture | 1P    | EM      | JS in the browser: forms, events. Example |
+| Thu  27 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [JS in the browser: DOM](https://github.com/polito-WA-2025/materials/blob/main/slides/2-04-JS-browser.pdf). |
+| Thu  27 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [JS in the browser: forms, events](https://github.com/polito-WA-2025/materials/blob/main/slides/2-04-JS-browser.pdf). Example |
 | Fri  28 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#4 new group2: [API security](https://github.com/polito-WA-2025/materials/blob/main/labs/lab04-API-server.pdf) | - |
