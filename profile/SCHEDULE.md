@@ -35,10 +35,10 @@ Check regularly for potential changes.
 | Fri  21 Mar 2025 | 16:00  | Lab |  9i | AS | Lab#3 new group2: [Set-up of an API server with express](https://github.com/polito-WA-2025/materials/blob/main/labs/lab03-express.pdf) | - |
 | Fri  21 Mar 2025 | 17:30  | - | - | - | *no activity* |  |
 | Mon  24 Mar 2025 | 13:00  |  Lecture | 29B | EM | [Validation in API (example)](https://github.com/polito-WA-2025/wa-weeks/tree/main/week04). [Introduction to modern browsers](https://github.com/polito-WA-2025/materials/blob/main/slides/2-01-browser-intro.pdf), [HTML](https://github.com/polito-WA-2025/materials/blob/main/slides/2-02-html.pdf). |
-| Mon  24 Mar 2025 | 14:30  |  Lecture | 29B | EM | [Modern CSS, Flex, Bootstrap](https://github.com/polito-WA-2025/materials/blob/main/slides/2-03-css.pdf). |
+| Mon  24 Mar 2025 | 14:30  |  Lecture | 29B | EM | [Modern CSS, Flex, Bootstrap](https://github.com/polito-WA-2025/materials/blob/main/slides/2-03-css.pdf). [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week05/html_css) |
 | Tue  25 Mar 2025 | 16:00  | Lab | 10i | EM | Lab#4 new group1: [API security](https://github.com/polito-WA-2025/materials/blob/main/labs/lab04-API-server.pdf) | - |
 | Thu  27 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [JS in the browser: DOM](https://github.com/polito-WA-2025/materials/blob/main/slides/2-04-JS-browser.pdf). |
-| Thu  27 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [JS in the browser: forms, events](https://github.com/polito-WA-2025/materials/blob/main/slides/2-04-JS-browser.pdf). Example |
+| Thu  27 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [JS in the browser: forms, events](https://github.com/polito-WA-2025/materials/blob/main/slides/2-04-JS-browser.pdf). [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week05) |
 | Fri  28 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#4 new group2: [API security](https://github.com/polito-WA-2025/materials/blob/main/labs/lab04-API-server.pdf) | - |
 | Mon  31 Mar 2025 | 13:00  |  Lab | 29B | EM | Lab#5 new group1: HTML and CSS |
 | Mon  31 Mar 2025 | 14:30  |  Lab | 29B | EM | Lab#5 new group2: HTML and CSS |
