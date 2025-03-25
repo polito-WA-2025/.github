@@ -42,7 +42,14 @@ Check regularly for potential changes.
 | Fri  28 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#4 new group2: [API security](https://github.com/polito-WA-2025/materials/blob/main/labs/lab04-API-server.pdf) | - |
 | Mon  31 Mar 2025 | 13:00  |  Lab | 29B | EM | Lab#5 new group1: HTML and CSS | - |
 | Mon  31 Mar 2025 | 14:30  |  Lab | 29B | EM | Lab#5 new group2: HTML and CSS | - |
+| Tue   1 Apr 2025 | 16:00  | Lab | 29B | EM | Lab#6 new group2: JS in the browser | Confirmed |
 | Tue   1 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#6 new group1: JS in the browser | - |
 | Thu   3 Apr 2025 | 13:00  | Lecture | 1P    | EM      |  Cross-site scripting (XSS). Fetch API. |
 | Thu   3 Apr 2025 | 14:30  | Lecture | 1P    | EM      |  JS Modules. Example. |
-| Fri   4 Apr 2025 | 16:00  | Lab |  9i | EM | Lab#6 new group2: JS in the browser | To be confirmed |
+| Fri   4 Apr 2025 | 16:00  | - | - | - | - | Permanently moved to Tuesday |
+| Mon   7 Apr 2025 | 13:00  | Lecture | 29B | EM | Introduction to React | - |
+| Mon  31 Mar 2025 | 14:30  | Lecture | 29B | EM | Components, props, JSX. | - |
+| Tue   1 Apr 2025 | 16:00  | Lab | R3b | EM | Lab#7 new group2: Setup React | - |
+| Tue   1 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#7 new group1: Setup React | - |
+| Thu   3 Apr 2025 | 13:00  | Lecture | 1P    | EM      |  TBD ... |
+| Thu   3 Apr 2025 | 14:30  | Lecture | 1P    | EM      |  TBD ... |
