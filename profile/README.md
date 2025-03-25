@@ -21,7 +21,7 @@ Teachers: E. Masala, A. Servetti
 
 ## Lab groups
 - Tuesday 4pm for (new) group#1: last names from A to J
-- Friday 4pm for (new) group#2: last names from K to Z
+- Tuesday 2:30pm for (new) group#2: last names from K to Z (Friday until March 28 included)
 
 ## Class hours
 
@@ -32,7 +32,8 @@ See the [Detailed Schedule](/profile/SCHEDULE.md) for each day topics and variat
 | Day      | Hour        | Location | Type          | Note                                                                 |
 |----------|-------------|----------|---------------|----------------------------------------------------------------------|
 | Monday   | 13:00-16:00 | Room 29B | Lecture       | Not always lecture, check [detailed schedule](/profile/SCHEDULE.md)  |
+| Tuesday  | 14:30-16:00 | Room R3b | Lab - (new) Group#2 | lab on Tuesday from March 31, 2025 - room 29B only on Apr 1 |
 | Tuesday  | 16:00-17:30 | Room 10i | Lab - (new) Group#1 | lab starts on March 4, 2025                                          |
 | Thursday | 13:00-16:00 | Room 1P  | Lecture       | Not always lecture, check [detailed schedule](/profile/SCHEDULE.md)  |
-| Friday   | 16:00-17:30 | Room 9i  | Lab - (new) Group#2 | lab starts on March 7, 7025                                          |
+| Friday   | 16:00-17:30 | Room 9i  | ---           | NOT USED ANYMORE                                                     |
 | Friday   | 17:30-19:00 | Room 9i  | ---           | NOT USED ANYMORE                                                     |
