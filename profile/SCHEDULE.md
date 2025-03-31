@@ -40,8 +40,8 @@ Check regularly for potential changes.
 | Thu  27 Mar 2025 | 13:00  | Lecture | 1P    | EM      | [JS in the browser: DOM](https://github.com/polito-WA-2025/materials/blob/main/slides/2-04-JS-browser.pdf). | Video [:arrow_forward:](https://youtu.be/m-mfZW5R76I) |
 | Thu  27 Mar 2025 | 14:30  | Lecture | 1P    | EM      | [JS in the browser: forms, events](https://github.com/polito-WA-2025/materials/blob/main/slides/2-04-JS-browser.pdf). [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week05/js) | Video [:arrow_forward:](https://youtu.be/JFsbV74wND0) |
 | Fri  28 Mar 2025 | 16:00  | Lab |  9i | EM | Lab#4 new group2: [API security](https://github.com/polito-WA-2025/materials/blob/main/labs/lab04-API-server.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab04-secure-API)) | - |
-| Mon  31 Mar 2025 | 13:00  |  Lab | 29B | EM | Lab#5 new group1: [HTML and CSS](https://github.com/polito-WA-2025/materials/blob/main/labs/lab05-html-css.pdf) | - |
-| Mon  31 Mar 2025 | 14:30  |  Lab | 29B | EM | Lab#5 new group2: [HTML and CSS](https://github.com/polito-WA-2025/materials/blob/main/labs/lab05-html-css.pdf) | - |
+| Mon  31 Mar 2025 | 13:00  |  Lab | 29B | EM | Lab#5 new group1: [HTML and CSS](https://github.com/polito-WA-2025/materials/blob/main/labs/lab05-html-css.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab05-html-css)) | - |
+| Mon  31 Mar 2025 | 14:30  |  Lab | 29B | EM | Lab#5 new group2: [HTML and CSS](https://github.com/polito-WA-2025/materials/blob/main/labs/lab05-html-css.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab05-html-css)) | - |
 | Tue   1 Apr 2025 | 14:30  | Lab | 29B | EM | Lab#6 new group2: [JS in the browser](https://github.com/polito-WA-2025/materials/blob/main/labs/lab06-js-browser.pdf) | Confirmed |
 | Tue   1 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#6 new group1: [JS in the browser](https://github.com/polito-WA-2025/materials/blob/main/labs/lab06-js-browser.pdf) | - |
 | Thu   3 Apr 2025 | 13:00  | Lecture | 1P    | EM      |  Cross-site scripting (XSS). Fetch API. |
