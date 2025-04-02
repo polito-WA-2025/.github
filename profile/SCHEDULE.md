@@ -44,7 +44,7 @@ Check regularly for potential changes.
 | Mon  31 Mar 2025 | 14:30  |  Lab | 29B | EM | Lab#5 new group2: [HTML and CSS](https://github.com/polito-WA-2025/materials/blob/main/labs/lab05-html-css.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab05-html-css)) | - |
 | Tue   1 Apr 2025 | 14:30  | Lab | 29B | EM | Lab#6 new group2: [JS in the browser](https://github.com/polito-WA-2025/materials/blob/main/labs/lab06-js-browser.pdf) | Confirmed |
 | Tue   1 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#6 new group1: [JS in the browser](https://github.com/polito-WA-2025/materials/blob/main/labs/lab06-js-browser.pdf) | - |
-| Thu   3 Apr 2025 | 13:00  | Lecture | 1P    | EM      |  Cross-site scripting (XSS). [Fetch API](https://github.com/polito-WA-2025/materials/blob/main/slides/2-06-fetch.pdf). |
+| Thu   3 Apr 2025 | 13:00  | Lecture | 1P    | EM      |  [Cross-site scripting (XSS)](https://github.com/polito-WA-2024/materials/blob/main/slide/2-05-browser-security-XSS.pdf). [Fetch API](https://github.com/polito-WA-2025/materials/blob/main/slides/2-06-fetch.pdf). |
 | Thu   3 Apr 2025 | 14:30  | Lecture | 1P    | EM      |  [JS Modules](https://github.com/polito-WA-2025/materials/blob/main/slides/1-08-javascript-modules.pdf). [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week06). |
 | Fri   4 Apr 2025 | 16:00  | - | - | - | - | Permanently moved to Tuesday |
 | Mon   7 Apr 2025 | 13:00  | Lecture | 29B | EM | Introduction to React | - |
