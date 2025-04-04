@@ -49,8 +49,8 @@ Check regularly for potential changes.
 | Fri   4 Apr 2025 | 16:00  | - | - | - | - | Permanently moved to Tuesday |
 | Mon   7 Apr 2025 | 13:00  | Lecture | 29B | EM | [Introduction to React](https://github.com/polito-WA-2025/materials/blob/main/slides/3-01-React-intro.pdf) |  |
 | Mon   7 Apr 2025 | 14:30  | Lecture | 29B | EM | [Components, props, JSX](https://github.com/polito-WA-2025/materials/blob/main/slides/3-02-Elements-and-JSX.pdf) |  |
-| Tue   8 Apr 2025 | 14:30  | Lab | R3b | AS | Lab#7 new group2: Setup React | - |
-| Tue   8 Apr 2025 | 16:00  | Lab | 10i | AS | Lab#7 new group1: Setup React | - |
+| Tue   8 Apr 2025 | 14:30  | Lab | R3b | AS | Lab#7 new group2: [Restructure app using React](https://github.com/polito-WA-2025/materials/blob/main/labs/lab07-getting-started-react.pdf) | - |
+| Tue   8 Apr 2025 | 16:00  | Lab | 10i | AS | Lab#7 new group1: [Restructure app using React](https://github.com/polito-WA-2025/materials/blob/main/labs/lab07-getting-started-react.pdf) | - |
 | Thu  10 Apr 2025 | 13:00  | Lecture | 1P    | EM |  React State |
 | Thu  10 Apr 2025 | 14:30  | Lecture | 1P    | EM |  Example |
 | Mon  14 Apr 2025 | 13:00  | Lecture | 29B | EM | React Forms |  |
