@@ -48,8 +48,33 @@ Check regularly for potential changes.
 | Thu   3 Apr 2025 | 14:30  | Lecture | 1P    | EM      |  [JS Modules](https://github.com/polito-WA-2025/materials/blob/main/slides/1-08-javascript-modules.pdf). [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week06). | Video [:arrow_forward:](https://youtu.be/WgVWsxGzavU) |
 | Fri   4 Apr 2025 | 16:00  | - | - | - | - | Permanently moved to Tuesday |
 | Mon   7 Apr 2025 | 13:00  | Lecture | 29B | EM | [Introduction to React](https://github.com/polito-WA-2025/materials/blob/main/slides/3-01-React-intro.pdf) |  |
-| Mon  31 Mar 2025 | 14:30  | Lecture | 29B | EM | [Components, props, JSX](https://github.com/polito-WA-2025/materials/blob/main/slides/3-02-Elements-and-JSX.pdf) |  |
-| Tue   1 Apr 2025 | 14:30  | Lab | R3b | EM | Lab#7 new group2: Setup React | - |
-| Tue   1 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#7 new group1: Setup React | - |
-| Thu   3 Apr 2025 | 13:00  | Lecture | 1P    | EM      |  TBD ... |
-| Thu   3 Apr 2025 | 14:30  | Lecture | 1P    | EM      |  TBD ... |
+| Mon   7 Apr 2025 | 14:30  | Lecture | 29B | EM | [Components, props, JSX](https://github.com/polito-WA-2025/materials/blob/main/slides/3-02-Elements-and-JSX.pdf) |  |
+| Tue   8 Apr 2025 | 14:30  | Lab | R3b | EM | Lab#7 new group2: Setup React | - |
+| Tue   8 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#7 new group1: Setup React | - |
+| Thu  10 Apr 2025 | 13:00  | Lecture | 1P    | EM |  React State |
+| Thu  10 Apr 2025 | 14:30  | Lecture | 1P    | EM |  Example |
+| Mon  14 Apr 2025 | 13:00  | Lecture | 29B | EM | React Forms |  |
+| Mon  14 Apr 2025 | 14:30  | Lecture | 29B | EM | Example. React Context(?) |  |
+| Tue  15 Apr 2025 | 14:30  | Lab | R3b | EM | Lab#8 new group2: React Components and State | - |
+| Tue  15 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#8 new group1: React Components and State | - |
+| Thu  17 Apr 2025 | 13:00  | - | - | - | *no activity* |  |
+| Thu  17 Apr 2025 | 14:30  | - | - | - | *no activity* |  |
+|                  |        |   |   |   | **EASTER VACATION** |  |
+| Mon  28 Apr 2025 | 13:00  | Lecture | 29B | EM | React Router |  |
+| Mon  28 Apr 2025 | 14:30  | Lecture | 29B | EM | Example |  |
+| Tue  29 Apr 2025 | 14:30  | Lab | R3b | EM | Lab#9 new group2: React Forms | - |
+| Tue  29 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#9 new group1: React Forms | - |
+| Thu   1 May 2025 | 13:00  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
+| Thu   1 May 2025 | 14:30  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
+| Mon   5 May 2025 | 13:00  | - | - | - | *no activity* |  |
+| Mon   5 May 2025 | 14:30  | - | - | - | *no activity* |  |
+| Tue   6 May 2025 | 13:00  | - | - | - | *no activity* |  |
+| Tue   6 May 2025 | 14:30  | - | - | - | *no activity* |  |
+| Thu   8 May 2025 | 13:00  | Lab | 1P | EM | Lab#10 new group2: React Router | - |
+| Thu   8 May 2025 | 14:30  | Lab | 1P | EM | Lab#10 new group1: React Router | - |
+| Mon  12 May 2025 | 13:00  | Lecture | 29B | EM | TBD |  |
+| Mon  12 May 2025 | 14:30  | Lecture | 29B | EM | TBD |  |
+| Tue  13 May 2025 | 14:30  | Lab | R3b | EM | Lab#11 new group2: ... | - |
+| Tue  13 May 2025 | 16:00  | Lab | 10i | EM | Lab#11 new group1: ... | - |
+| Thu  15 May 2025 | 13:00  | Lecture | 1P    | EM |  TBD |
+| Thu  15 May 2025 | 14:30  | Lecture | 1P    | EM |  TBD |
