@@ -68,8 +68,8 @@ Check regularly for potential changes.
 | Thu   1 May 2025 | 14:30  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
 | Mon   5 May 2025 | 13:00  | - | - | - | *no activity (Teachers not available due to other duties)* |  |
 | Mon   5 May 2025 | 14:30  | - | - | - | *no activity (Teachers not available due to other duties)* |  |
-| Tue   6 May 2025 | 13:00  | - | - | - | *no activity (Teachers not available due to other duties)* |  |
 | Tue   6 May 2025 | 14:30  | - | - | - | *no activity (Teachers not available due to other duties)* |  |
+| Tue   6 May 2025 | 16:00  | - | - | - | *no activity (Teachers not available due to other duties)* |  |
 | Thu   8 May 2025 | 13:00  | Lab | 1P | EM | Lab#10 new group2: React Router | - |
 | Thu   8 May 2025 | 14:30  | Lab | 1P | EM | Lab#10 new group1: React Router | - |
 | Mon  12 May 2025 | 13:00  | Lecture | 29B | EM | TBD |  |
