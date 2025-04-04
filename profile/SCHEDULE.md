@@ -47,8 +47,8 @@ Check regularly for potential changes.
 | Thu   3 Apr 2025 | 13:00  | Lecture | 1P    | EM      |  [Cross-site scripting (XSS)](https://github.com/polito-WA-2025/materials/blob/main/slides/2-05-browser-security-XSS.pdf). [Fetch API](https://github.com/polito-WA-2025/materials/blob/main/slides/2-06-fetch.pdf). | Video [:arrow_forward:](https://youtu.be/a2dhmWhon30) | 
 | Thu   3 Apr 2025 | 14:30  | Lecture | 1P    | EM      |  [JS Modules](https://github.com/polito-WA-2025/materials/blob/main/slides/1-08-javascript-modules.pdf). [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week06). | Video [:arrow_forward:](https://youtu.be/WgVWsxGzavU) |
 | Fri   4 Apr 2025 | 16:00  | - | - | - | - | Permanently moved to Tuesday |
-| Mon   7 Apr 2025 | 13:00  | Lecture | 29B | EM | Introduction to React | - |
-| Mon  31 Mar 2025 | 14:30  | Lecture | 29B | EM | Components, props, JSX. | - |
+| Mon   7 Apr 2025 | 13:00  | Lecture | 29B | EM | [Introduction to React](https://github.com/polito-WA-2025/materials/blob/main/slides/3-01-React-intro.pdf) |  |
+| Mon  31 Mar 2025 | 14:30  | Lecture | 29B | EM | [Components, props, JSX](https://github.com/polito-WA-2025/materials/blob/main/slides/3-02-Elements-and-JSX.pdf) |  |
 | Tue   1 Apr 2025 | 14:30  | Lab | R3b | EM | Lab#7 new group2: Setup React | - |
 | Tue   1 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#7 new group1: Setup React | - |
 | Thu   3 Apr 2025 | 13:00  | Lecture | 1P    | EM      |  TBD ... |
