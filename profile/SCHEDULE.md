@@ -48,7 +48,7 @@ Check regularly for potential changes.
 | Thu   3 Apr 2025 | 14:30  | Lecture | 1P    | EM      |  [JS Modules](https://github.com/polito-WA-2025/materials/blob/main/slides/1-08-javascript-modules.pdf). [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week06). | Video [:arrow_forward:](https://youtu.be/WgVWsxGzavU) |
 | Fri   4 Apr 2025 | 16:00  | - | - | - | - | Permanently moved to Tuesday |
 | Mon   7 Apr 2025 | 13:00  | Lecture | 29B | EM | [Introduction to React](https://github.com/polito-WA-2025/materials/blob/main/slides/3-01-React-intro.pdf) |  |
-| Mon   7 Apr 2025 | 14:30  | Lecture | 29B | EM | [Components, props, JSX](https://github.com/polito-WA-2025/materials/blob/main/slides/3-02-Elements-and-JSX.pdf) |  |
+| Mon   7 Apr 2025 | 14:30  | Lecture | 29B | EM | [Components, props, JSX](https://github.com/polito-WA-2025/materials/blob/main/slides/3-02-Elements-and-JSX.pdf). [Examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week07). |  |
 | Tue   8 Apr 2025 | 14:30  | Lab | R3b | AS | Lab#7 new group2: [Restructure app using React](https://github.com/polito-WA-2025/materials/blob/main/labs/lab07-getting-started-react.pdf) | - |
 | Tue   8 Apr 2025 | 16:00  | Lab | 10i | AS | Lab#7 new group1: [Restructure app using React](https://github.com/polito-WA-2025/materials/blob/main/labs/lab07-getting-started-react.pdf) | - |
 | Thu  10 Apr 2025 | 13:00  | Lecture | 1P    | EM |  React State |
