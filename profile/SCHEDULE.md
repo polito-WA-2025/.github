@@ -53,14 +53,14 @@ Check regularly for potential changes.
 | Tue   8 Apr 2025 | 16:00  | Lab | 10i | AS | Lab#7 new group1: [Restructure app using React](https://github.com/polito-WA-2025/materials/blob/main/labs/lab07-getting-started-react.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab07-react)) | - |
 | Thu  10 Apr 2025 | 13:00  | Lecture | 1P    | EM |  [React State](https://github.com/polito-WA-2025/materials/blob/main/slides/3-03-Components-and-state-management.pdf) | Video [:arrow_forward:](https://youtu.be/-Li0M5buboc) |
 | Thu  10 Apr 2025 | 14:30  | Lecture | 1P    | EM |  [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week07/react-qa-state) | Video [:arrow_forward:](https://youtu.be/KJDmX3BxdZg) |
-| Mon  14 Apr 2025 | 13:00  | Lecture | 29B | EM | [React Forms](https://github.com/polito-WA-2025/materials/blob/main/slides/3-04-Forms.pdf) |  |
-| Mon  14 Apr 2025 | 14:30  | Lecture | 29B | EM | [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week08). [React Context(?)](https://github.com/polito-WA-2025/materials/blob/main/slides/3-05-Context.pdf) |  |
+| Mon  14 Apr 2025 | 13:00  | Lecture | 29B | EM | [React Forms](https://github.com/polito-WA-2025/materials/blob/main/slides/3-04-Forms.pdf) | Video [:arrow_forward:](https://youtu.be/XCVzUhnLo30) |
+| Mon  14 Apr 2025 | 14:30  | Lecture | 29B | EM | [Example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week08). |  Video [:arrow_forward:](https://youtu.be/QjgxaZpPMPI) |
 | Tue  15 Apr 2025 | 14:30  | Lab | R3b | EM | Lab#8 new group2: [React Components and State](https://github.com/polito-WA-2025/materials/blob/main/labs/lab08-react-state.pdf) | - |
 | Tue  15 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#8 new group1: [React Components and State](https://github.com/polito-WA-2025/materials/blob/main/labs/lab08-react-state.pdf) | - |
 | Thu  17 Apr 2025 | 13:00  | - | - | - | *no activity* |  |
 | Thu  17 Apr 2025 | 14:30  | - | - | - | *no activity* |  |
 |                  |        |   |   |   | **EASTER VACATION** |  |
-| Mon  28 Apr 2025 | 13:00  | Lecture | 29B | EM | React Router |  |
+| Mon  28 Apr 2025 | 13:00  | Lecture | 29B | EM | [React Context](https://github.com/polito-WA-2025/materials/blob/main/slides/3-05-Context.pdf). React Router |  |
 | Mon  28 Apr 2025 | 14:30  | Lecture | 29B | EM | Example |  |
 | Tue  29 Apr 2025 | 14:30  | Lab | R3b | EM | Lab#9 new group2: React Forms | - |
 | Tue  29 Apr 2025 | 16:00  | Lab | 10i | EM | Lab#9 new group1: React Forms | - |
