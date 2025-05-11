@@ -74,7 +74,14 @@ Check regularly for potential changes.
 | Thu   8 May 2025 | 14:30  | Lab | 1P | AS | Lab#10 new group1: [React Router](https://github.com/polito-WA-2025/materials/blob/main/labs/lab10-router.pdf) | - |
 | Mon  12 May 2025 | 13:00  | Lecture | 29B | EM | [React useEffect](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) |  |
 | Mon  12 May 2025 | 14:30  | Lecture | 29B | EM | [Examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week10) |  |
-| Tue  13 May 2025 | 14:30  | Lab | R3b | EM | Lab#11 new group2: ... | - |
-| Tue  13 May 2025 | 16:00  | Lab | 10i | EM | Lab#11 new group1: ... | - |
-| Thu  15 May 2025 | 13:00  | Lecture | 1P    | EM |  [React useEffect() (continued)](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) |
-| Thu  15 May 2025 | 14:30  | Lecture | 1P    | EM |  [CORS](https://github.com/polito-WA-2025/materials/blob/main/slides/4-05-CORS_and_security.pdf) |
+| Tue  13 May 2025 | 14:30  | Lab | R3b | EM | Lab#11 new group2: [Loading from server](https://github.com/polito-WA-2025/materials/blob/main/labs/lab11-loading-data-from-server.pdf) | - |
+| Tue  13 May 2025 | 16:00  | Lab | 10i | EM | Lab#11 new group1: [Loading from server](https://github.com/polito-WA-2025/materials/blob/main/labs/lab11-loading-data-from-server.pdf) | - |
+| Thu  15 May 2025 | 13:00  | Lecture | 1P    | EM |  [React useEffect() (continued)](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) |  |
+| Thu  15 May 2025 | 14:30  | Lecture | 1P    | EM |  [CORS](https://github.com/polito-WA-2025/materials/blob/main/slides/4-05-CORS_and_security.pdf) |  |
+| Mon  19 May 2025 | 13:00  | Lecture | 29B | EM | useEffect examples |  |
+| Mon  19 May 2025 | 14:30  | Lecture | 29B | EM | Authentication |  |
+| Tue  20 May 2025 | 14:30  | Lab | R3b | EM | Lab#12 new group2: Complete client/server interaction | - |
+| Tue  20 May 2025 | 16:00  | Lab | 10i | EM | Lab#12 new group1: Complete client/server interaction | - |
+| Thu  22 May 2025 | 13:00  | Lecture | 1P    | EM |  Authentication (continued) |  |
+| Thu  22 May 2025 | 14:30  | Lecture | 1P    | EM |  Authentication (continued) |  |
+
