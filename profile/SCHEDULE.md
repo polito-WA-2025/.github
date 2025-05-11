@@ -72,9 +72,9 @@ Check regularly for potential changes.
 | Tue   6 May 2025 | 16:00  | - | - | - | *no activity (Teachers not available due to other duties)* |  |
 | Thu   8 May 2025 | 13:00  | Lab | 1P | AS | Lab#10 new group2: [React Router](https://github.com/polito-WA-2025/materials/blob/main/labs/lab10-router.pdf) | - |
 | Thu   8 May 2025 | 14:30  | Lab | 1P | AS | Lab#10 new group1: [React Router](https://github.com/polito-WA-2025/materials/blob/main/labs/lab10-router.pdf) | - |
-| Mon  12 May 2025 | 13:00  | Lecture | 29B | EM | TBD |  |
-| Mon  12 May 2025 | 14:30  | Lecture | 29B | EM | TBD |  |
+| Mon  12 May 2025 | 13:00  | Lecture | 29B | EM | [React useEffect](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) |  |
+| Mon  12 May 2025 | 14:30  | Lecture | 29B | EM | [Examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week10) |  |
 | Tue  13 May 2025 | 14:30  | Lab | R3b | EM | Lab#11 new group2: ... | - |
 | Tue  13 May 2025 | 16:00  | Lab | 10i | EM | Lab#11 new group1: ... | - |
-| Thu  15 May 2025 | 13:00  | Lecture | 1P    | EM |  TBD |
-| Thu  15 May 2025 | 14:30  | Lecture | 1P    | EM |  TBD |
+| Thu  15 May 2025 | 13:00  | Lecture | 1P    | EM |  [React useEffect() (continued)](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) |
+| Thu  15 May 2025 | 14:30  | Lecture | 1P    | EM |  [CORS](https://github.com/polito-WA-2025/materials/blob/main/slides/4-05-CORS_and_security.pdf) |
