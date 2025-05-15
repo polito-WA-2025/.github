@@ -74,11 +74,11 @@ Check regularly for potential changes.
 | Thu   8 May 2025 | 14:30  | Lab | 1P | AS | Lab#10 new group1: [React Router](https://github.com/polito-WA-2025/materials/blob/main/labs/lab10-router.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab10-router)) | - |
 | Mon  12 May 2025 | 13:00  | Lecture | 29B | EM | [React useEffect](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) | Video [:arrow_forward:](https://youtu.be/RQaP5EiwQCM) |
 | Mon  12 May 2025 | 14:30  | Lecture | 29B | EM | [Examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week10) | Video [:arrow_forward:](https://youtu.be/5tWAuOQSCMk) |
-| Tue  13 May 2025 | 14:30  | Lab | R3b | EM | Lab#11 new group2: [Loading from server](https://github.com/polito-WA-2025/materials/blob/main/labs/lab11-loading-data-from-server.pdf) | - |
-| Tue  13 May 2025 | 16:00  | Lab | 10i | EM | Lab#11 new group1: [Loading from server](https://github.com/polito-WA-2025/materials/blob/main/labs/lab11-loading-data-from-server.pdf) | - |
+| Tue  13 May 2025 | 14:30  | Lab | R3b | EM | Lab#11 new group2: [Loading from server](https://github.com/polito-WA-2025/materials/blob/main/labs/lab11-loading-data-from-server.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab11-loading-from-server)) | - |
+| Tue  13 May 2025 | 16:00  | Lab | 10i | EM | Lab#11 new group1: [Loading from server](https://github.com/polito-WA-2025/materials/blob/main/labs/lab11-loading-data-from-server.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab11-loading-from-server)) | - |
 | Thu  15 May 2025 | 13:00  | Lecture | 1P    | EM | [CORS](https://github.com/polito-WA-2025/materials/blob/main/slides/4-05-CORS_and_security.pdf) |  |
-| Thu  15 May 2025 | 14:30  | Lecture | 1P    | EM | [React useEffect() (continued)](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) [Examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week10/react-qa-optimistic-update) |  |
-| Mon  19 May 2025 | 13:00  | Lecture | 29B | EM | useEffect examples |  |
+| Thu  15 May 2025 | 14:30  | Lecture | 1P    | EM | [Add/update/delete with server](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) [Examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week10/react-qa-optimistic-update) |  |
+| Mon  19 May 2025 | 13:00  | Lecture | 29B | EM | Client/server interaction examples |  |
 | Mon  19 May 2025 | 14:30  | Lecture | 29B | EM | Authentication |  |
 | Tue  20 May 2025 | 14:30  | Lab | R3b | EM | Lab#12 new group2: Complete client/server interaction | - |
 | Tue  20 May 2025 | 16:00  | Lab | 10i | EM | Lab#12 new group1: Complete client/server interaction | - |
@@ -97,4 +97,5 @@ Check regularly for potential changes.
 | Tue   3 Jun 2025 | 16:00  | Lab | 10i | EM | Lab#14 new group1: App with OTP | - |
 | Thu   5 Jun 2025 | 13:00  | Lecture | 1P    | EM |  Designing the solution for a sample exam assignment |  |
 | Thu   5 Jun 2025 | 14:30  | Lecture | 1P    | EM |  Designing the solution for a sample exam assignment |  |
+| Thu   5 Jun 2025 | - | - | - | - | **END OF COURSE** |  |
 | Mon  16 Jun 2025 | - | - | - | - | **TEXT of [second exam](https://github.com/polito-WA-2025/.github/blob/main/profile/EXAM.md) PUBLISHED** |  |
