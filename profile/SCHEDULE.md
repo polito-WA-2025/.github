@@ -80,8 +80,8 @@ Check regularly for potential changes.
 | Thu  15 May 2025 | 14:30  | Lecture | 1P    | EM | [Add/update/delete with server](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) [Examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week10/react-qa-optimistic-update) | Video [:arrow_forward:](https://youtu.be/XwaD6Mh38KU) |
 | Mon  19 May 2025 | 13:00  | Lecture | 29B | EM | [Client/server interaction examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week11) |  |
 | Mon  19 May 2025 | 14:30  | Lecture | 29B | EM | Authentication |  |
-| Tue  20 May 2025 | 14:30  | Lab | R3b | EM | Lab#12 new group2: Complete client/server interaction | - |
-| Tue  20 May 2025 | 16:00  | Lab | 10i | EM | Lab#12 new group1: Complete client/server interaction | - |
+| Tue  20 May 2025 | 14:30  | Lab | R3b | EM | Lab#12 new group2: [Complete client-server interaction](https://github.com/polito-WA-2025/materials/blob/main/labs/lab12-complete-client-server.pdf) | - |
+| Tue  20 May 2025 | 16:00  | Lab | 10i | EM | Lab#12 new group1: [Complete client-server interaction](https://github.com/polito-WA-2025/materials/blob/main/labs/lab12-complete-client-server.pdf) | - |
 | Thu  22 May 2025 | 13:00  | Lecture | 1P    | EM |  Authentication (continued) |  |
 | Thu  22 May 2025 | 14:30  | Lecture | 1P    | EM |  Authentication (continued) |  |
 | Mon  26 May 2025 | 13:00  | Lecture | 29B | EM | Authentication/authorization with OTP |  |
