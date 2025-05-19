@@ -78,8 +78,8 @@ Check regularly for potential changes.
 | Tue  13 May 2025 | 16:00  | Lab | 10i | EM | Lab#11 new group1: [Loading from server](https://github.com/polito-WA-2025/materials/blob/main/labs/lab11-loading-data-from-server.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab11-loading-from-server)) | - |
 | Thu  15 May 2025 | 13:00  | Lecture | 1P    | EM | [CORS](https://github.com/polito-WA-2025/materials/blob/main/slides/4-05-CORS_and_security.pdf) | Video [:arrow_forward:](https://youtu.be/J6kGkb634yM) |
 | Thu  15 May 2025 | 14:30  | Lecture | 1P    | EM | [Add/update/delete with server](https://github.com/polito-WA-2025/materials/blob/main/slides/3-07-LifeCycle.pdf) [Examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week10/react-qa-optimistic-update) | Video [:arrow_forward:](https://youtu.be/XwaD6Mh38KU) |
-| Mon  19 May 2025 | 13:00  | Lecture | 29B | EM | [Client/server interaction examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week11) |  |
-| Mon  19 May 2025 | 14:30  | Lecture | 29B | EM | [Authentication](https://github.com/polito-WA-2025/materials/blob/main/slides/4-06-Authentication.pdf) |  |
+| Mon  19 May 2025 | 13:00  | Lecture | 29B | EM | [Client/server interaction examples](https://github.com/polito-WA-2025/wa-weeks/tree/main/week11) Video [:arrow_forward:](https://youtu.be/mO3CRs8zW_Q) |  |
+| Mon  19 May 2025 | 14:30  | Lecture | 29B | EM | [Authentication](https://github.com/polito-WA-2025/materials/blob/main/slides/4-06-Authentication.pdf) | Video [:arrow_forward:](https://youtu.be/eF2o5HNzm1A) |
 | Tue  20 May 2025 | 14:30  | Lab | R3b | EM | Lab#12 new group2: [Complete client-server interaction](https://github.com/polito-WA-2025/materials/blob/main/labs/lab12-complete-client-server.pdf) | - |
 | Tue  20 May 2025 | 16:00  | Lab | 10i | EM | Lab#12 new group1: [Complete client-server interaction](https://github.com/polito-WA-2025/materials/blob/main/labs/lab12-complete-client-server.pdf) | - |
 | Thu  22 May 2025 | 13:00  | Lecture | 1P    | EM |  [Authentication](https://github.com/polito-WA-2025/materials/blob/main/slides/4-06-Authentication.pdf) |  |
