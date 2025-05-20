@@ -86,10 +86,10 @@ Check regularly for potential changes.
 | Thu  22 May 2025 | 14:30  | Lecture | 1P    | EM |  Authentication example |  |
 | Mon  26 May 2025 | 13:00  | Lecture | 29B | EM | Authentication/authorization with OTP |  |
 | Mon  26 May 2025 | 14:30  | Lecture | 29B | EM | Authentication/authorization with OTP |  |
-| Tue  27 May 2025 | 14:30  | Lab | R3b | EM | Lab#13 new group2: App with authentication | - |
-| Tue  27 May 2025 | 16:00  | Lab | 10i | EM | Lab#13 new group1: App with authentication | - |
+| Tue  27 May 2025 | 14:30  | Lab | R3b | AS | Lab#13 new group2: App with authentication | - |
+| Tue  27 May 2025 | 16:00  | Lab | 10i | AS | Lab#13 new group1: App with authentication | - |
 | Thu  29 May 2025 | 13:00  | Lecture | 1P    | EM |  Auth security considerations |  |
-| Thu  29 May 2025 | 14:30  | Lecture | 1P    | EM |  Auth security considerations |  |
+| Thu  29 May 2025 | 14:30  | Lecture | 1P    | AS |  Review of Lab solution |  |
 | Mon   2 Jun 2025 | - | - | - | - | **TEXT of [first exam](https://github.com/polito-WA-2025/.github/blob/main/profile/EXAM.md) PUBLISHED** |  |
 | Mon   2 Jun 2025 | 13:00  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
 | Mon   2 Jun 2025 | 14:30  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
