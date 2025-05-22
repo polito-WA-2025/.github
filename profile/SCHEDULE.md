@@ -82,8 +82,8 @@ Check regularly for potential changes.
 | Mon  19 May 2025 | 14:30  | Lecture | 29B | EM | [Authentication](https://github.com/polito-WA-2025/materials/blob/main/slides/4-06-Authentication.pdf) | Video [:arrow_forward:](https://youtu.be/eF2o5HNzm1A) |
 | Tue  20 May 2025 | 14:30  | Lab | R3b | EM | Lab#12 new group2: [Complete client-server interaction](https://github.com/polito-WA-2025/materials/blob/main/labs/lab12-complete-client-server.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab12-complete-client-server)) | - |
 | Tue  20 May 2025 | 16:00  | Lab | 10i | EM | Lab#12 new group1: [Complete client-server interaction](https://github.com/polito-WA-2025/materials/blob/main/labs/lab12-complete-client-server.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab12-complete-client-server)) | - |
-| Thu  22 May 2025 | 13:00  | Lecture | 1P    | EM |  [Authentication](https://github.com/polito-WA-2025/materials/blob/main/slides/4-06-Authentication.pdf) |  |
-| Thu  22 May 2025 | 14:30  | Lecture | 1P    | EM |  [Authentication example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week11/react-qa-login) |  |
+| Thu  22 May 2025 | 13:00  | Lecture | 1P    | EM |  [Authentication](https://github.com/polito-WA-2025/materials/blob/main/slides/4-06-Authentication.pdf) | Video [:arrow_forward:](https://youtu.be/fmcMWBOgzg8) |
+| Thu  22 May 2025 | 14:30  | Lecture | 1P    | EM |  [Authentication example](https://github.com/polito-WA-2025/wa-weeks/tree/main/week11/react-qa-login) | Video [:arrow_forward:](https://youtu.be/b97ChmKN5Rs) |
 | Mon  26 May 2025 | 13:00  | Lecture | 29B | EM | Authentication/authorization with OTP |  |
 | Mon  26 May 2025 | 14:30  | Lecture | 29B | EM | Authentication/authorization with OTP |  |
 | Tue  27 May 2025 | 14:30  | Lab | R3b | AS | Lab#13 new group2: App with authentication | - |
