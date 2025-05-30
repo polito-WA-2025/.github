@@ -8,10 +8,15 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - [Common instructions for all exams (will be reported and adapted to each single exam)](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_common_instructions_v3.pdf)
   - [GitHub Classroom submission instructions](https://github.com/polito-WA-2025/.github/blob/main/profile/GH-Classroom-Instructions-WA-2025.pdf)
   - [Most frequent errors and how to avoid them (version 2.1)](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_Most_Frequent_Errors_v2.1.pdf)
-    
+
+* [Exam #1: Forum](https://docs.google.com/document/d/10v_gbelQFkTN21ZkPZRM2GQKREDxe11GOuTmrCkkUJo/edit?usp=sharing) (deadline: Jun 22, 2025, 11:59pm)
+  - Document with all comments and corresponding answers added on the google doc (to be added later).
+  - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
+  - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/6EO6Vzam](https://classroom.github.com/a/6EO6Vzam).
+
 ## Exam rules
 
-The exam consists of a web application project to be developed according to the specifications published 20 days in advance of each official exam date ("data appello"), plus an oral discussion of such a project. For each official date, a new assignment will have to be developed.
+The exam consists of a web application project to be developed according to the specifications published about 20 days in advance of each official exam date ("data appello"), plus an oral discussion of such a project. For each official date, a new assignment will have to be developed.
 
 The web application project must be developed during the 20 days by each student INDIVIDUALLY. During the oral exam, each student should be able to prove that they were able to develop the project in full autonomy by showing complete and full knowledge of every part of their submitted solution.
 
