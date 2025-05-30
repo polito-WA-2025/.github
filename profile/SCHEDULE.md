@@ -89,7 +89,7 @@ Check regularly for potential changes.
 | Tue  27 May 2025 | 14:30  | Lab | R3b | AS | Lab#13 new group2: [App with authentication](https://github.com/polito-WA-2025/materials/blob/main/labs/lab13-authentication.pdf) | - |
 | Tue  27 May 2025 | 16:00  | Lab | 10i | AS | Lab#13 new group1: [App with authentication](https://github.com/polito-WA-2025/materials/blob/main/labs/lab13-authentication.pdf) | - |
 | Thu  29 May 2025 | 13:00  | Lecture | 1P    | EM |  [Auth security considerations](https://github.com/polito-WA-2025/materials/blob/main/slides/4-08-Auth-security.pdf) | Video [:arrow_forward:](https://youtu.be/YSeuLKwRerQ) |
-| Thu  29 May 2025 | 14:30  | Lecture | 1P    | AS |  Exercise about authentication | Video [:arrow_forward:](https://youtu.be/Eh6iKBilI_o) |
+| Thu  29 May 2025 | 14:30  | Lecture | 1P    | AS |  [Exercise about authentication](https://github.com/polito-WA-2025/wa-weeks/tree/main/week12/lab-with-login-explained) | Video [:arrow_forward:](https://youtu.be/Eh6iKBilI_o) |
 | Mon   2 Jun 2025 | - | - | - | - | **TEXT of [first exam](https://github.com/polito-WA-2025/.github/blob/main/profile/EXAM.md) PUBLISHED** |  |
 | Mon   2 Jun 2025 | 13:00  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
 | Mon   2 Jun 2025 | 14:30  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
