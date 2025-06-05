@@ -93,8 +93,8 @@ Check regularly for potential changes.
 | Mon   2 Jun 2025 | - | - | - | - | **TEXT of [first exam](https://github.com/polito-WA-2025/.github/blob/main/profile/EXAM.md) PUBLISHED** |  |
 | Mon   2 Jun 2025 | 13:00  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
 | Mon   2 Jun 2025 | 14:30  | - | - | - | **NATIONAL HOLIDAY**, *no activity* |  |
-| Tue   3 Jun 2025 | 14:30  | Lab | R3b | EM | Lab#14 new group2: [App with OTP](https://github.com/polito-WA-2025/materials/blob/main/labs/lab14-otp.pdf) | - |
-| Tue   3 Jun 2025 | 16:00  | Lab | 10i | EM | Lab#14 new group1: [App with OTP](https://github.com/polito-WA-2025/materials/blob/main/labs/lab14-otp.pdf) | - |
+| Tue   3 Jun 2025 | 14:30  | Lab | R3b | EM | Lab#14 new group2: [App with OTP](https://github.com/polito-WA-2025/materials/blob/main/labs/lab14-otp.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab14-otp)) | - |
+| Tue   3 Jun 2025 | 16:00  | Lab | 10i | EM | Lab#14 new group1: [App with OTP](https://github.com/polito-WA-2025/materials/blob/main/labs/lab14-otp.pdf) ([Solution](https://github.com/polito-WA-2025/labs-code/tree/main/lab14-otp)) | - |
 | Thu   5 Jun 2025 | 13:00  | Lecture | 1P    | EM |  Designing the solution for a [sample exam](https://github.com/polito-WA-2025/wa-weeks/blob/main/week13/WA_SampleExam_StudyPlan_otp.pdf) assignment | Video [:arrow_forward:](https://youtu.be/7ctB8fq8woE) |
 | Thu   5 Jun 2025 | 14:30  | Lecture | 1P    | EM |  Designing the solution for a [sample exam](https://github.com/polito-WA-2025/wa-weeks/blob/main/week13/WA_SampleExam_StudyPlan_otp.pdf) assignment | Video [:arrow_forward:](https://youtu.be/dmEteItAcew) |
 | Thu   5 Jun 2025 | - | - | - | - | **END OF COURSE** |  |
