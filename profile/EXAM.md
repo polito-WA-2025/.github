@@ -10,7 +10,7 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - [Most frequent errors and how to avoid them (version 2.1)](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_Most_Frequent_Errors_v2.1.pdf)
 
 * [Exam #1: Forum](https://docs.google.com/document/d/10v_gbelQFkTN21ZkPZRM2GQKREDxe11GOuTmrCkkUJo/edit?usp=sharing) (deadline: Jun 22, 2025, 11:59pm)
-  - Document with all comments and corresponding answers added on the google doc (to be added later).
+  - [Document with all comments and corresponding answers added on the google doc](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_exam1_forum__comments.pdf)
   - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/6EO6Vzam](https://classroom.github.com/a/6EO6Vzam).
 
