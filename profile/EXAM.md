@@ -14,6 +14,11 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/6EO6Vzam](https://classroom.github.com/a/6EO6Vzam).
 
+* [Exam #2: Restaurant](https://docs.google.com/document/d/1Puzz4ZmzzkRJWitcvnKmm5D1NukUWjkXaFcwnL1Wmoc/edit?usp=sharing) (deadline: Jul 6, 2025, 11:59pm)
+  - Document with all comments and corresponding answers added on the google doc (will be added later)
+  - For doubts and questions about the text, leave a comment on the google doc.
+  - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/xnU44QZi](https://classroom.github.com/a/xnU44QZi)
+
 ## Exam rules
 
 The exam consists of a web application project to be developed according to the specifications published about 20 days in advance of each official exam date ("data appello"), plus an oral discussion of such a project. For each official date, a new assignment will have to be developed.
