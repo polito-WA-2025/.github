@@ -15,8 +15,8 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/6EO6Vzam](https://classroom.github.com/a/6EO6Vzam).
 
 * [Exam #2: Restaurant](https://docs.google.com/document/d/1Puzz4ZmzzkRJWitcvnKmm5D1NukUWjkXaFcwnL1Wmoc/edit?usp=sharing) (deadline: Jul 6, 2025, 11:59pm)
-  - Document with all comments and corresponding answers added on the google doc (will be added later)
-  - For doubts and questions about the text, leave a comment on the google doc.
+  - [Document with all comments and corresponding answers added on the google doc](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_exam2_restaurant__comments.pdf)
+  - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/xnU44QZi](https://classroom.github.com/a/xnU44QZi)
 
 ## Exam rules
