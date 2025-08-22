@@ -21,7 +21,7 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
  
 * [Exam #3: Train](https://docs.google.com/document/d/1T-u10-Xi5-aX3GXeeje-a3ovrK65gPYdNTtNcf1aaT0/edit?usp=sharing) (deadline: Sep 14, 2025, 11:59pm)
   - Document with all comments and corresponding answers added on the google doc (will be published later)
-  - For doubts and questions about the text, currently make a comment on the google doc (do not modify the document!)
+  - For doubts and questions about the text, currently make a comment on the google doc (do not delete/resolve/modify comments or document!)
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/010GyyLK](https://classroom.github.com/a/010GyyLK)
 
 
