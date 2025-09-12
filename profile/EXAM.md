@@ -27,6 +27,11 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
 
 ## Exam rules
 
+**IMPORTANT NOTE**: *EXAM DATE*: The oral discussion typically is **NOT** on the official date of the exam, but in the next few days. Ask the teacher if in doubt, especially before booking travels! Failure to show up in person at the discussion automatically imply exam failure.   
+
+
+   
+
 The exam consists of a web application project to be developed according to the specifications published about 20 days in advance of each official exam date ("data appello"), plus an oral discussion of such a project. For each official date, a new assignment will have to be developed.
 
 The web application project must be developed during the 20 days by each student INDIVIDUALLY. During the oral exam, each student should be able to prove that they were able to develop the project in full autonomy by showing complete and full knowledge of every part of their submitted solution.
@@ -60,4 +65,8 @@ If React requires certain programming patterns, those must be followed. For exam
 ## Sample exams
 
 Text of the exams for last year's edition of this course available [here](https://github.com/polito-WA-2024/.github/blob/main/profile/EXAM.md)
+
+   
+**IMPORTANT NOTE**: *EXAM DATE*: The oral discussion typically is **NOT** on the official date of the exam, but in the next few days. Ask the teacher if in doubt, especially before booking travels! Failure to show up in person at the discussion automatically imply exam failure.
+
 
