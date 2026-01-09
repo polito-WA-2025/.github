@@ -24,8 +24,9 @@ Info about exams for the course of _Web Applications_ (in English) for the [Mast
   - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/010GyyLK](https://classroom.github.com/a/010GyyLK)
 
-* [Exam #4: Cloud](https://docs.google.com/document/d/1oIOeuQj9QqZpZJNf8ujoxX5sJWw5oKc6Ucrrhc1QaK0/edit?usp=sharing) (deadline: Jan 18 2026, 11:59pm)
-  - For doubts and questions about the text, leave a comment on the google doc or, later, write on the specific topic on the telegram channel of the course.
+* [Exam #4: Cloud](https://docs.google.com/document/d/1oIOeuQj9QqZpZJNf8ujoxX5sJWw5oKc6Ucrrhc1QaK0/edit?usp=sharing) (deadline: Jan 18, 2026, 11:59pm)
+  - [Document with all comments and corresponding answers added on the google doc](https://github.com/polito-WA-2025/.github/blob/main/profile/WA_exam4_cloud__comments.pdf)
+  - For doubts and questions about the text, write on the specific topic on the telegram channel of the course.
   - Link to accept the assignment (on GitHub Classroom): [https://classroom.github.com/a/oNTPigDw](https://classroom.github.com/a/oNTPigDw)
 
 ## Exam rules
